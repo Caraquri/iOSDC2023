@@ -1,3 +1,8 @@
+
+<div align = "center">
+<a href="https://caraquri.com/"><img src="https://caraquri.com/wp-content/themes/caraquri/images/common/logo.png" alt="Caraquri logo" width = 50%/></a>
+</div>
+
 # Welcome to Caraquri's Novelty for iOSDC2023 🎉
 からくり株式会社の社員がiOSDC2023に提供するノベルティ
 ## skills
