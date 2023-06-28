@@ -1,10 +1,9 @@
-
 <div align = "center">
 <a href="https://caraquri.com/"><img src="https://caraquri.com/wp-content/themes/caraquri/images/common/logo.png" alt="Caraquri logo" width = 50%/></a>
+<h1> Welcome to Caraquri's Novelty for iOSDC2023 🎉</h1>
+<h3>からくり株式会社の社員がiOSDC2023に提供するノベルティ</h3>
 </div>
 
-# Welcome to Caraquri's Novelty for iOSDC2023 🎉
-からくり株式会社の社員がiOSDC2023に提供するノベルティ
 ## skills
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
