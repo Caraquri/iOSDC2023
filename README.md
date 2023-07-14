@@ -5,7 +5,8 @@
 </div>
 
 <!-- twitterシェアボタン -->
-<a href="https://twitter.com/share?url=https://github.com/Caraquri/iOSDC2023%0a&text=Twitterでシェア&hashtags=iosdc&hashtags=CaraquriStone" class="twitter-share-button" data-show-count="false"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width=5%></a>
+[![Share on Twitter](https://img.shields.io/badge/-share%20on%20twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/share?url=https://github.com/Caraquri/iOSDC2023%0a&text=[Twitterで感想をお願いします！]&hashtags=iosdc&hashtags=CaraquriStone)
+
 
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
