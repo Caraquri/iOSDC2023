@@ -7,6 +7,22 @@
 <!-- twitterシェアボタン -->
 [![Share on Twitter](https://img.shields.io/badge/-share%20on%20twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/share?url=https://github.com/Caraquri/iOSDC2023%0a&text=[Twitterで感想をお願いします！]&hashtags=iosdc&hashtags=CaraquriStone)
 
+## Get Started🔥
+ローカルにクローンしてお使いください
+
+1. 以下のように macOS、　Linux上でこのプロジェクトをクローンしてください
+    ```shell
+    $ git clone git@github.com:Caraquri/iOSDC2023.git
+    $ cd iOSDC2023
+    $ cd Caraquri-Stone
+    ```
+
+2. Xcode プロジェクトを開きます。
+3. Run Build　をします。
+4. Debug Area を見てみると・・・？
+
+
+## Skills🧑‍💻
 
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
