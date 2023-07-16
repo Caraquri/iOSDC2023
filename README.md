@@ -1,28 +1,27 @@
 <div align = "center">
 <a href="https://caraquri.com/"><img src="https://caraquri.com/wp-content/themes/caraquri/images/common/logo.png" alt="Caraquri logo" width = 50%/></a>
 <h1> Welcome to Caraquri's Novelty for iOSDC2023 🎉</h1>
-<h3>からくり株式会社の社員がiOSDC2023に提供するノベルティ</h3>
+<h3>からくり株式会社がiOSDC2023に提供するノベルティ</h3>
 </div>
+
+## Get Started🔥
+お使いのPCのローカル環境にて、このリポジトリをご利用ください
+
+1. macOSを搭載したApple製PCにて、このリポジトリをクローンしてください
+    ```shell
+    $ git clone git@github.com:Caraquri/iOSDC2023.git
+    ```
+
+2. Caraquri-Stone.xcodeproj を開いてください
+3. `⌘` + `Shift` + `Y` で心の準備を...
+4. `⌘` + `R` で実行！
+5. デバッグエリアのConsoleを見てみると...
 
 <!-- twitterシェアボタン -->
 [![Share on Twitter](https://img.shields.io/badge/-share%20on%20twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/share?url=https://github.com/Caraquri/iOSDC2023%0a&text=[Twitterで感想をお願いします！]&hashtags=iosdc&hashtags=CaraquriStone)
+　⚠︎結果のスクショ等の拡散はご控えください
 
-## Get Started🔥
-ローカルにクローンしてお使いください
-
-1. 以下のように macOS、　Linux上でこのプロジェクトをクローンしてください
-    ```shell
-    $ git clone git@github.com:Caraquri/iOSDC2023.git
-    $ cd iOSDC2023
-    $ cd Caraquri-Stone
-    ```
-
-2. Xcode プロジェクトを開きます。
-3. Run Build　をします。
-4. Debug Area を見てみると・・・？
-
-
-## Skills🧑‍💻
+## Our Skills 💪
 
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
@@ -46,3 +45,9 @@
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)](https://swagger.io/)
+
+## About us
+[コーポレートサイトを見にいく](https://caraquri.com)
+
+## Contact us
+[積極採用中！！！開発相談も！](https://caraquri.com/contact/)
