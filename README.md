@@ -12,7 +12,7 @@
     $ git clone git@github.com:Caraquri/iOSDC2023.git
     ```
 
-2. Caraquri-Stone.xcodeproj を開いてください
+2. Caraquri-Stone.xcodeproj を開いてください（Xcodeが必要になります）
 3. `⌘` + `Shift` + `Y` で心の準備を...
 4. `⌘` + `R` で実行！
 5. デバッグエリアのConsoleを見てみると...
