@@ -20,8 +20,10 @@
 <!-- twitterシェアボタン -->
 [![Share on Twitter](https://img.shields.io/badge/-share%20on%20twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/share?url=https://github.com/Caraquri/iOSDC2023%0a&text=[Twitterで感想をお願いします！]&hashtags=iosdc&hashtags=CaraquriStone)
 
+> **Warning**
+> 結果のスクショ等の拡散はご控えください
 
-⚠️ 結果のスクショ等の拡散はご控えください
+
 
 ## Our Skills 💪
 
